@@ -30,27 +30,27 @@ body {
     position:sticky;
     top:0;
     background-color:#ffffff;
-    max-height: 5em;
+    max-height: 5 em;
     align-items: center;
-    border-bottom:linear-gradient(blue,purple,pink, orange, yellow, green);
-    border-bottom-width: 4px;
+    border-bottom:linear-gradient (blue,purple,pink, orange, yellow, green);
+    border-bottom-width: 4 px;
     border-bottom-style: solid;
 }
 
 .div1 a[ href="a propos del'asso.html"] {
     text-decoration: none;
-    color:#ffffff;
+    color:red;
     background-color: #fcadeb;
     padding: 5px;
-    border-radius: 4%;
+    border-radius: 7%;
 }
 
 .div1 a[href="Actvités.html"] {
     text-decoration: none;
-    color:#ffffff;
+    color:red;
     background-color:#009b71;
     padding: 5px;
-    border-radius: 4%;
+    border-radius: 7%;
 }
 .div1 a[href="contact version 1.html"] {
     text-decoration: none;
