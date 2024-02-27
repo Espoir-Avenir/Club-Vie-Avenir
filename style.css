@@ -40,7 +40,7 @@ body {
 .div1 a[ href="a propos del'asso.html"] {
     text-decoration: none;
     color:black;
-    background-color: #fcadeb;
+    background-color: #00a400;
     padding: 5px;
     border-radius: 7%;
 }
@@ -91,9 +91,9 @@ body {
     width: 50%;
     background-color: hsl(40, 100%, 78%);
     font-size: 0.75em;
-    border: 1em solid pink;
+    border: 1em solid #fcff42;
     font-family: 'Alegreya', serif; 
-    border-style: inset;
+    border-style: ridge;
     color:#000000;
     text-align: left;
     padding: 0.7em;
