@@ -48,14 +48,14 @@ body {
 .div1 a[href="Actvités.html"] {
     text-decoration: none;
     color:black;
-    background-color:#009b71;
+    background-color:red;
     padding: 5px;
     border-radius: 7%;
 }
 .div1 a[href="contact version 1.html"] {
     text-decoration: none;
     color:black;
-    background-color: #f9963a;
+    background-color: blue;
     padding: 5px;
     border-radius: 4%;
 }
